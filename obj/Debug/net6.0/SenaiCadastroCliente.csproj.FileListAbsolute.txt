@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\bin\Debug\net6.0\SenaiCadastroCliente.exe
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\bin\Debug\net6.0\SenaiCadastroCliente.deps.json
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\bin\Debug\net6.0\SenaiCadastroCliente.runtimeconfig.json
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\bin\Debug\net6.0\SenaiCadastroCliente.dll
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\bin\Debug\net6.0\SenaiCadastroCliente.pdb
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\obj\Debug\net6.0\SenaiCadastroCliente.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\obj\Debug\net6.0\SenaiCadastroCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\obj\Debug\net6.0\SenaiCadastroCliente.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\obj\Debug\net6.0\SenaiCadastroCliente.AssemblyInfo.cs
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\obj\Debug\net6.0\SenaiCadastroCliente.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\obj\Debug\net6.0\SenaiCadastroCliente.dll
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\obj\Debug\net6.0\refint\SenaiCadastroCliente.dll
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\obj\Debug\net6.0\SenaiCadastroCliente.pdb
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\obj\Debug\net6.0\SenaiCadastroCliente.genruntimeconfig.cache
+C:\Users\Admin\Documents\gabriel\7 - Projetos eu\Full desck\git\senai\SenaiCadastroCliente\obj\Debug\net6.0\ref\SenaiCadastroCliente.dll
