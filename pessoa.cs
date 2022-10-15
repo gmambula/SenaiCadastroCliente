@@ -5,12 +5,13 @@ using System.Threading.Tasks;
 
 namespace SenaiCadastroCliente
 {
-    public abstract class pessoa
+    public class pessoa
     {
-        public string nome { get; set; }
-        public Endereco endereco { get; set; }
-        public void Pagarimposto() {
+        public string? nome { get; set; }
+        public Endereco? endereco { get; set; }
+        public float? salario {get;set;}
+        //public float? Pagarimposto();
             
-        }
+        
     }
 }
