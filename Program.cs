@@ -76,12 +76,15 @@ namespace SenaiCadastroCliente
                  endpf.Complemento = Console.ReadLine();
                     
                  Console.WriteLine($"Este endereço é comercial? S/N");
-                 string endComercial =  Console.ReadLine().ToUpper();
-                    if (endComercial == "S"){
-                        endComercial = true;
+                 string enderecoComercial =  Console.ReadLine().ToUpper();
+                    if (enderecoComercial == "S"){
+                        endpf.endComercial = true;
                     }else{
-                     endComercial = false;
+                     endpf.endComercial = false;
                     }
+
+                 
+
                     
             
                  PessoaFisica pf = new PessoaFisica();
@@ -147,7 +150,7 @@ namespace SenaiCadastroCliente
                      endpj.Logadouro = "rua x";
                      endpj.Numero = 1234;
                      endpj.Complemento = "casa";
-                     endpj.enderecoComercial = false;
+                     endpj.endComercial = false;
 
                      pj.nome = "Empresax";
                      pj.endereco = endpj;
