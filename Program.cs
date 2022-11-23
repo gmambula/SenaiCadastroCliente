@@ -2,6 +2,7 @@
 using System;
 using System.Threading;
 using System.Collections.Generic;
+using SenaiCadastroCliente;
 
 namespace SenaiCadastroCliente
 {
@@ -60,12 +61,7 @@ namespace SenaiCadastroCliente
             {
                 case "1":
                  Endereco endpf = new Endereco();
-
-                //  endpf.Logadouro = "rua x";
-                //  endpf.Numero = 1234;
-                //  endpf.Complemento = "casa";
-                //  endpf.enderecoComercial = false;
-
+                 
                  Console.WriteLine($"Digite seu Logadouro");
                  endpf.Logadouro = Console.ReadLine();
                     
@@ -89,12 +85,7 @@ namespace SenaiCadastroCliente
             
                  PessoaFisica pf = new PessoaFisica();
 
-                //  pf.nome = "Gabriel";
-                //  pf.endereco = Console.ReadLine();                 
-                //  pf.cpf = "12332112345";
-                //  pf.datanascimaneto = new DateTime (1999, 01, 15);   
-                //  pf.salario = 7000; 
-                    
+                                 
                     Console.WriteLine($"Digite seu CPF");
                     pf.cpf = Console.ReadLine();
 
@@ -112,6 +103,7 @@ namespace SenaiCadastroCliente
                             System.Console.WriteLine($"Cadastro aprovado");
                             listPF.Add(pf);
                             Console.WriteLine(pf.Pagarimposto(pf.salario));
+                            pf.GravarRegistro();
                         }else
                         {
                             System.Console.WriteLine($"Cadastro reprovado");
@@ -128,7 +120,7 @@ namespace SenaiCadastroCliente
 
                 case "3":
                     System.Console.WriteLine($"Digite o CPF que deseja remover");
-                    string cpfProcurado = Console.ReadLine();
+                    string? cpfProcurado = Console.ReadLine();
                     PessoaFisica pessoaEncontrada = listPF.Find(cadaItem => cadaItem.cpf == cpfProcurado);
                     if (pessoaEncontrada != null)
                     {

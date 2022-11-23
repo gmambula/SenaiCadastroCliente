@@ -5,16 +5,15 @@ using System.Threading.Tasks;
 
 namespace SenaiCadastroCliente
 {
-    public class Endereco
+    public class Endereco 
     {
-        public class string?  logadouro {get; set;}
+        public string?  Logadouro {get; set;}
 
-        public class int? numero { get; set;}
+        public  int? Numero { get; set;}
 
-        public class string? complemento {get; set;}
+        public  string? Complemento {get; set;}
 
-        public class boll? endComercial {get; set;}
-        
+        public  bool? endComercial {get; set;}      
 
     }
 }
