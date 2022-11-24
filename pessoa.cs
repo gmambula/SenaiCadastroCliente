@@ -13,6 +13,6 @@ namespace SenaiCadastroCliente
 
         public abstract float Pagarimposto(float salario);
             
-        
+        public abstract bool GravarRegistro();
     }
 }

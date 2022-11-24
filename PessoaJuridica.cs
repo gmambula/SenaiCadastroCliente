@@ -32,6 +32,10 @@ namespace SenaiCadastroCliente
 
 
         }
+        public override bool GravarRegistro()
+        {
+            return true;
+        }
 
     }
 }
